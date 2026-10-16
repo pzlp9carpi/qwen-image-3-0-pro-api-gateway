@@ -106,6 +106,16 @@ Runnable versions: [`examples/`](examples). The task lifecycle is `pending → p
 
 Use the [Get an API key](https://go.apimart.ai/k-e8cc55) link — $1 minimum top-up, no plan required.
 
+<!-- related-repos:auto -->
+## Related repositories
+
+- **Same model, other languages** — 9 more language builds: 中文 [qwen-image-3-0-pro-api-cn](https://github.com/cnc4l4x4p3ndb0/qwen-image-3-0-pro-api-cn) · Deutsch [qwen-image-3-0-pro-api-de](https://github.com/kcqkgc4m/qwen-image-3-0-pro-api-de) · Español [qwen-image-3-0-pro-api-es](https://github.com/flm74hfs6gr5/qwen-image-3-0-pro-api-es) · Français [qwen-image-3-0-pro-api-fr](https://github.com/z3phc/qwen-image-3-0-pro-api-fr) · Bahasa `qwen-image-3-0-pro-api-id` · 日本語 [qwen-image-3-0-pro-api-ja](https://github.com/cae0venx1p0/qwen-image-3-0-pro-api-ja) · 한국어 [qwen-image-3-0-pro-api-ko](https://github.com/n80bh8gycesx4t/qwen-image-3-0-pro-api-ko) · Português [qwen-image-3-0-pro-api-pt](https://github.com/c7686676/qwen-image-3-0-pro-api-pt) · Русский `qwen-image-3-0-pro-api-ru`
+- **More models in this language** — [midjourney-api-gateway](https://github.com/apimartxc3iskw/midjourney-api-gateway) · [gemini-2-5-flash-image-preview-api-gateway](https://github.com/mcqdlebg/gemini-2-5-flash-image-preview-api-gateway) · [nano-banana-api-gateway](https://github.com/gix2kust/nano-banana-api-gateway) · [gemini-3-1-flash-image-preview-api-gateway](https://github.com/nn6jtthao8/gemini-3-1-flash-image-preview-api-gateway) · [nano-banana-2-api-gateway](https://github.com/u9mdw3pt594q2r/nano-banana-2-api-gateway) · [gemini-3-pro-image-preview-api-gateway](https://github.com/uqu9q/gemini-3-pro-image-preview-api-gateway)
+- **Topic hubs** — every build of this model, all languages: [qwen-image-3-0-pro](https://github.com/topics/qwen-image-3-0-pro) · [qwen-image-3-0-pro-api](https://github.com/topics/qwen-image-3-0-pro-api)
+
+This repository is one build in a cross-linked set of API guides for the same model family; each language build links back to the others.
+<!-- /related-repos:auto -->
+
 ## Attributed links (how this repository is measured)
 
 | Purpose | Attributed link | Target |
